@@ -7,6 +7,12 @@ Dataset consists of ten baseline variables, such as age, sex, body mass index (B
 Cleaned dataset, no missing values <br/>
 Used linear regression machine learning algorithm <br/>
 
+# Titanic dataset (Kaggle)
+Downloaded from the popular Kaggle website for data scientists & analysts to practice machine learning techniques <br/>
+Predict the survival of the testing dataset based on 10 characteristics such as age, sex, and ticket fare <br/>
+Unstructured dataset with missing values <br/>
+Used two types of Gradient Boosting Machines (GBM) from Python's library: Scikit and XGBoost <br/>
+
 # Wine dataset
 Pre-loaded classification dataset from Python's Sklearn library <br/> 
 Target_data = Class 1, 2, and 3 for the quality of wine (column 0) <br/>
